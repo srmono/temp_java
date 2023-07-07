@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-fastbuild/bin/code/sum_lib.lib
+/MACHINE:X64
+bazel-out/x64_windows-fastbuild/bin/code/_objs/sum_lib/sum_rounding_lib.obj
+/ignore:4221

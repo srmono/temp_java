@@ -1,0 +1,9 @@
+/nologo
+/OUT:bazel-out/x64_windows-fastbuild/bin/code/hello_world.exe
+bazel-out/x64_windows-fastbuild/bin/code/_objs/hello_world/hello_world.obj
+bazel-out/x64_windows-fastbuild/bin/code/sum_lib.lib
+/SUBSYSTEM:CONSOLE
+/MACHINE:X64
+/DEFAULTLIB:msvcrt.lib
+/DEBUG:FASTLINK
+/INCREMENTAL:NO
